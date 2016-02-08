@@ -1,0 +1,3 @@
+[submodule "shared/headphones"]
+	path = shared/headphones
+	url = https://github.com/rembo10/headphones
